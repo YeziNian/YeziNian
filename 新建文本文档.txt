@@ -1,0 +1,9 @@
+jupyter 
+vs code
+mysql
+sublime text
+thonny
+annaconda
+github pot
+
+
